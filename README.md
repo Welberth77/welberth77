@@ -1,4 +1,4 @@
-## HI! I am Welberth Oliveira 👋
+## Olá! Eu sou Welberth Oliveira 👋
 
 - 🌱 student computer science
 - 😄 Pronouns: Ele/dele
