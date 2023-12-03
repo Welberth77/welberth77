@@ -1,17 +1,8 @@
 ## Olá! Eu sou Welberth Oliveira 👋
 
-- 🌱 student computer science
-- 😄 Pronouns: Ele/dele
-##
-
 [![Welberth GitHub stats](https://github-readme-stats.vercel.app/api?username=welberth77&show_icons=true&theme=holi)](https://github.com/welberth77/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welberth77&theme=holi)](https://github.com/welberth77/github-readme-stats)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welberth77&layout=compact&show_icons=true&theme=holi)
 ##
 
-<div>
-  <img align="center" alt="welberth77-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="welberth77-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />          
-</div>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welberth-oliveira/)
