@@ -1,8 +1,7 @@
 ## HI! I am Welberth Oliveira 👋
 
-- 🌱 Estudando Python
+- 🌱 student computer science
 - 😄 Pronouns: Ele/dele
-- 
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=welberth77&show_icons=true&theme=holi)](https://github.com/welberth77/github-readme-stats) 
