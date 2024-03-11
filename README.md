@@ -3,7 +3,7 @@
 ![Welberth GitHub stats](https://github-readme-stats.vercel.app/api?username=welberth77&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welberth77&layout=compact&show_icons=true&theme=holi) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welberth77&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welberth77&layout=compact)
 
 <a href="https://github.com/welberth77/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=welberth77" />
