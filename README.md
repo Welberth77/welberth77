@@ -13,13 +13,6 @@
 
 ##
 
-<a href="https://github.com/welberth77/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=welberth77&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/welberth77/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=welberth77&repo=convoychat" />
-</a>
-
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welberth-oliveira/)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
