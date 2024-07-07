@@ -1,8 +1,6 @@
 ## Olá! Eu sou Welberth Oliveira 👋
 
-![Welberth GitHub stats](https://github-readme-stats.vercel.app/api?username=welberth77&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welberth77&layout=compact&show_icons=true&theme=transparent)
+![Welberth GitHub stats](https://github-readme-stats.vercel.app/api?username=welberth77&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welberth77&layout=compact&show_icons=true&theme=transparent)
 
 ## Tecnologias usadas
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Welberth77/Exercicios_Python)
