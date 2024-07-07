@@ -5,6 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welberth77&layout=compact&show_icons=true&theme=transparent)
 ##
 
+## Tecnologias usadas
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Welberth77/Exercicios_Python)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Welberth77/Exercicios_Java)
