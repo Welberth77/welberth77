@@ -39,7 +39,7 @@
 <!-- Seção de Contato -->
 <h2 align="start">Contate-me</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 8px;">
+<div align="start" style="display: flex; justify-content: center; gap: 8px;">
   <a href="https://www.linkedin.com/in/welberth-oliveira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
